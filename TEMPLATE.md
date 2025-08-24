@@ -2,8 +2,8 @@
 
 ## Verification
 ```yaml
-github_username: "your-username"
-discord_id: "123456789012345678"
+github_username: "cendol666"
+discord_id: "910526772393676800"
 timestamp: "2025-01-15"
 ```
 
